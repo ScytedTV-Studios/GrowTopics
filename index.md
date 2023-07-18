@@ -2,16 +2,15 @@
 title: Welcome
 ---
 
+**GrowTopics'** mission is to inform Growtopians of tips and tricks, scams, and more. We provide a variety of documnetation for you to explain and learn about the game.
+
+As we are still in beta, we request some patience as we add more information slowly.
+
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+> Follow Loyd Osborne [Twitch](https://twitch.tv/loydosborne) for regular streams and updates on GrowTopics.
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
-
-### Getting Started
+<!-- ### Getting Started
 
 Getting a message sent is quick and easy with ChatApp:
 
@@ -35,4 +34,4 @@ Sync your contact list with your phone and/or Facebook contacts. Never lose your
 
 #### Devices
 
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+ChatApp is available everywhere. Find out how to set it up on your all your devices. -->

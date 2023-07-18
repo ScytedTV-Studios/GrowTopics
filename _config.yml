@@ -1,28 +1,28 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: GrowTopics
+url: "https://gt.scyted.tv"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: GrowTopics has tutorials for every scenario.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: GrowTopics
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - https://github.com/ScytedTV-Studios/GrowTopics
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: -6/UTC
 
 permalink: pretty
 
